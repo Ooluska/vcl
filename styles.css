@@ -34,8 +34,9 @@ a:visited{
 }
 
 .avatar {
-  min-width: 200px;
   width: 200px;
+  min-width: 200px;
+  min-height: 100%;
   border-radius: 20px;
   box-shadow: 19px 19px 24px 18px rgba(0, 0, 0, 0.25);
 }
